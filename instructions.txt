@@ -1,0 +1,13 @@
+Creating a Jupyter Notebook
+To create a Jupyter notebook create a file with ".ipynb" extention.
+The Extention will create a Jupyter notebook.
+
+change plain text to python text then change kernel => Python Env => Global Environment
+
+id(variable) gives id
+hex() gievs the hex code
+
+where can pass be used
+
+in functions if the number of parameters is not defined then we can use "*args" as the parameter where any number of parameters can be given to the function will be
+stored in the args list
